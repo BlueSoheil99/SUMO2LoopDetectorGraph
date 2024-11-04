@@ -1,0 +1,7 @@
+
+network_file: 'data/correct_Alaskan_offset_signal_Seattle_network_reformed_connections2.net.xml'
+loop_locations: 'data/validation_loop_detectors.add.xml'
+generated_trips: 'logic/files/trips.rou.xml'
+distances: 'logic/files/loopRoutes.rou.xml'
+
+loop_output: 'data/loops.xml'
